@@ -56,6 +56,6 @@ When the repo flips public, it contains:
 
 ## Contact
 
-- Web: [blackboxprotocolhq.dev](blackboxprotocol.dev)
+- Web: [blackboxprotocol.dev](blackboxprotocol.dev)
 - Email: blackboxprotocolhq@gmail.com
 - X: [@blackboxproto](https://x.com/blackboxproto)
